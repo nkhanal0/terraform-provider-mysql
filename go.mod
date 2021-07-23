@@ -1,4 +1,4 @@
-module github.com/terraform-providers/terraform-provider-mysql
+module github.com/nkhanal0/terraform-provider-mysql
 
 require (
 	github.com/go-sql-driver/mysql v1.4.0
