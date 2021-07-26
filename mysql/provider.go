@@ -114,7 +114,7 @@ func Provider() terraform.ResourceProvider {
 			"connect_retry_timeout_sec": {
 				Type:     schema.TypeInt,
 				Optional: true,
-				Default:  300,
+				Default:  60,
 			},
 		},
 
